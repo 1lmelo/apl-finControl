@@ -1,0 +1,16 @@
+#logo {
+  width: 50px;
+  margin: 5px;
+}
+
+.menuLogin {
+  background-color: #c8830a;
+}
+
+
+.botaoCadastrar {
+  display: inline-flex;
+  margin-left: 80%;
+}
+
+
